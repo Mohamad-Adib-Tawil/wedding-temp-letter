@@ -1,6 +1,7 @@
 window.INVITATION_CONFIG = {
   "groom": "محمد أديب طويل",
   "groomLatin": "Mohamad Adib Tawil",
+  "coverNames": "محمد & رزان",
   "bride": "رزان بطايحي",
   "brideLatin": "Razan Bataihi",
   "date": "2026-09-27T19:00:00",
@@ -71,7 +72,7 @@ window.INVITATION_CONFIG = {
     "durationHours": 4
   },
   "copy": {
-    "coverKicker":"دعوة زفاف","coverHint":"اضغط لفتح الرسالة","eventTitle":"حفل زفاف","bismillah":"بسم الله الرحمن الرحيم","invitationTitle":"بطاقة دعوة","groomParentsLabel":"والدا العريس","brideParentsLabel":"والدا العروس","countdownTitle":"يبدأ الاحتفال بعد","day":"يوم","hour":"ساعة","minute":"دقيقة","second":"ثانية","arrived":"وصل اليوم 🎉","programTitle":"برنامج الحفل","venueTitle":"الموقع","notesTitle":"ملاحظات","galleryOrn":"❦","galleryTitle":"بعض ذكرياتنا","galleryAlt":"ذكرى","orderPrompt":"للطلب والاستفسار عبر واتساب",
+    "coverKicker":"دعوة زفاف","coverHint":"اضغط لفتح الرسالة","eventTitle":"حفل زفاف","bismillah":"بسم الله الرحمن الرحيم","invitationTitle":"بطاقة دعوة","groomParentsLabel":"والدا العريس","brideParentsLabel":"والدا العروس","countdownTitle":"يبدأ الاحتفال بعد","day":"يوم","hour":"ساعة","minute":"دقيقة","second":"ثانية","arrived":"وصل اليوم 🎉","programTitle":"برنامج الحفل","venueTitle":"الموقع","notesTitle":"ملاحظات","galleryOrn":"❦","galleryTitle":"بعض ذكرياتنا","galleryAlt":"ذكرى","orderPrompt":"للتواصل عبر واتساب",
     "calendarTitle": "احفظ الموعد 💌",
     "calendarHint": "📲 أضِف الموعد إلى تقويم هاتفك بضغطة",
     "googleCalendar": "تقويم جوجل",

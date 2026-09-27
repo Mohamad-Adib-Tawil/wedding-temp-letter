@@ -29,7 +29,7 @@ function fillContent() {
   else if (mapBtn) { mapBtn.style.display = "none"; }
 
   const coverNames = document.getElementById("coverNames");
-  if (coverNames) coverNames.textContent = `${c.groom} & ${c.bride}`;
+  if (coverNames) coverNames.textContent = c.coverNames || `${c.groom} & ${c.bride}`;
 
   // ===== صورة العرسين المؤطّرة (تظهر فقط إن وُجدت الصورة) =====
   const _imgs = (WEDDING_CONFIG.images) || {};
