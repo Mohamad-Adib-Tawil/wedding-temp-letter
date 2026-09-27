@@ -5,7 +5,7 @@ window.INVITATION_CONFIG = {
   "bride": "رزان بطايحي",
   "brideLatin": "Razan Bataihi",
   "date": "2026-09-27T19:00:00",
-  "timezone": "Asia/Damascus",
+  "timezone": "Asia/Baghdad",
   "dateText": "يوم الأحد، ٢٧ أيلول ٢٠٢٦",
   "timeText": "الساعة السابعة مساءً",
   "heroSub": "يتشرّفان بدعوتكم لمشاركتهما فرحة العمر",
